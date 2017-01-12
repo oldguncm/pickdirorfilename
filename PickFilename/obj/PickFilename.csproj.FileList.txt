@@ -1,0 +1,17 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PickFilename.Form1.resources
+obj\Debug\PickFilename.Properties.Resources.resources
+obj\Debug\PickFilename.csproj.GenerateResource.Cache
+bin\Debug\PickFilename.exe
+bin\Debug\PickFilename.pdb
+obj\Debug\PickFilename.exe
+obj\Debug\PickFilename.pdb
+bin\Release\PickFilename.exe
+bin\Release\PickFilename.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\PickFilename.Form1.resources
+obj\Release\PickFilename.Properties.Resources.resources
+obj\Release\PickFilename.csproj.GenerateResource.Cache
+obj\Release\PickFilename.exe
+obj\Release\PickFilename.pdb
+obj\Release\PickFilename.Resources.bb.ico

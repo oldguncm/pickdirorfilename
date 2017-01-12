@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PickFilename">
+</Property><Property Name="Solution File" Value="D:\My Documents\Visual Studio 2005\Projects\PickFilename\PickFilename.sln">
+</Property><Property Name="User Options File" Value="D:\My Documents\Visual Studio 2005\Projects\PickFilename\PickFilename.suo">
+</Property><Property Name="Date" Value="2007年12月29日">
+</Property><Property Name="Time" Value="11:42">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PickFilename.sln" Description="File successfully backed up as D:\My Documents\Visual Studio 2005\Projects\PickFilename\Backup\PickFilename.sln">
+</Event><Event ErrorLevel="0" Project="" Source="PickFilename.suo" Description="File successfully backed up as D:\My Documents\Visual Studio 2005\Projects\PickFilename\Backup\PickFilename.suo">
+</Event><Event ErrorLevel="0" Project="PickFilename" Source="PickFilename\PickFilename.csproj" Description="Project file successfully backed up as D:\My Documents\Visual Studio 2005\Projects\PickFilename\Backup\PickFilename\PickFilename.csproj">
+</Event><Event ErrorLevel="0" Project="PickFilename" Source="PickFilename\PickFilename.csproj.user" Description="Project user file successfully backed up as D:\My Documents\Visual Studio 2005\Projects\PickFilename\Backup\PickFilename\PickFilename.csproj.user">
+</Event><Event ErrorLevel="0" Project="PickFilename" Source="PickFilename\Form1.cs" Description="File successfully backed up as D:\My Documents\Visual Studio 2005\Projects\PickFilename\Backup\PickFilename\Form1.cs">
+</Event><Event ErrorLevel="0" Project="PickFilename" Source="PickFilename\Form1.Designer.cs" Description="File successfully backed up as D:\My Documents\Visual Studio 2005\Projects\PickFilename\Backup\PickFilename\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PickFilename" Source="PickFilename\Program.cs" Description="File successfully backed up as D:\My Documents\Visual Studio 2005\Projects\PickFilename\Backup\PickFilename\Program.cs">
+</Event><Event ErrorLevel="0" Project="PickFilename" Source="PickFilename\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Documents\Visual Studio 2005\Projects\PickFilename\Backup\PickFilename\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PickFilename" Source="PickFilename\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\My Documents\Visual Studio 2005\Projects\PickFilename\Backup\PickFilename\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PickFilename" Source="PickFilename\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\My Documents\Visual Studio 2005\Projects\PickFilename\Backup\PickFilename\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PickFilename" Source="PickFilename\Properties\Settings.settings" Description="File successfully backed up as D:\My Documents\Visual Studio 2005\Projects\PickFilename\Backup\PickFilename\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="PickFilename" Source="PickFilename\bb.ico" Description="File successfully backed up as D:\My Documents\Visual Studio 2005\Projects\PickFilename\Backup\PickFilename\bb.ico">
+</Event><Event ErrorLevel="0" Project="PickFilename" Source="PickFilename\Form1.resx" Description="File successfully backed up as D:\My Documents\Visual Studio 2005\Projects\PickFilename\Backup\PickFilename\Form1.resx">
+</Event><Event ErrorLevel="0" Project="PickFilename" Source="PickFilename\Properties\Resources.resx" Description="File successfully backed up as D:\My Documents\Visual Studio 2005\Projects\PickFilename\Backup\PickFilename\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="PickFilename" Source="PickFilename\Resources\bb.ico" Description="File successfully backed up as D:\My Documents\Visual Studio 2005\Projects\PickFilename\Backup\PickFilename\Resources\bb.ico">
+</Event><Event ErrorLevel="0" Project="PickFilename" Source="PickFilename\PickFilename.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PickFilename" Source="PickFilename\PickFilename.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PickFilename.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PickFilename.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PickFilename" Source="PickFilename\PickFilename.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

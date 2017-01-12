@@ -1,0 +1,69 @@
+J:\My Documents\Visual Studio 2005\Projects\PickFilename\PickFilename\obj\x86\Release\Interop.VBIDE.dll
+J:\My Documents\Visual Studio 2005\Projects\PickFilename\PickFilename\obj\x86\Release\PickFilename.csproj.ResolveComReference.cache
+J:\My Documents\Visual Studio 2005\Projects\PickFilename\PickFilename\bin\x86\Release\PickFilename.exe
+J:\My Documents\Visual Studio 2005\Projects\PickFilename\PickFilename\bin\x86\Release\PickFilename.pdb
+J:\My Documents\Visual Studio 2005\Projects\PickFilename\PickFilename\bin\x86\Release\Interop.VBIDE.dll
+J:\My Documents\Visual Studio 2005\Projects\PickFilename\PickFilename\obj\x86\Release\ResolveAssemblyReference.cache
+J:\My Documents\Visual Studio 2005\Projects\PickFilename\PickFilename\obj\x86\Release\PickFilename.Form1.resources
+J:\My Documents\Visual Studio 2005\Projects\PickFilename\PickFilename\obj\x86\Release\PickFilename.Properties.Resources.resources
+J:\My Documents\Visual Studio 2005\Projects\PickFilename\PickFilename\obj\x86\Release\PickFilename.csproj.GenerateResource.Cache
+J:\My Documents\Visual Studio 2005\Projects\PickFilename\PickFilename\obj\x86\Release\PickFilename.exe
+J:\My Documents\Visual Studio 2005\Projects\PickFilename\PickFilename\obj\x86\Release\PickFilename.pdb
+J:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.csproj.ResolveComReference.cache
+J:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.exe
+J:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.pdb
+J:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\bin\x86\Release\PickFilename.exe
+J:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\bin\x86\Release\PickFilename.pdb
+J:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\ResolveAssemblyReference.cache
+J:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.Form1.resources
+J:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.Properties.Resources.resources
+J:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\bin\x86\Release\zlib.net.dll
+J:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\bin\x86\Release\Interop.Shell32.dll
+J:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\Interop.Shell32.dll
+J:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\bin\x86\Release\flashinfo.exe
+J:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\bin\x86\Release\flashinfo.pdb
+G:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\Interop.Shell32.dll
+G:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.csproj.ResolveComReference.cache
+G:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.exe
+G:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.pdb
+G:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\bin\x86\Release\PickFilename.exe
+G:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\bin\x86\Release\PickFilename.pdb
+G:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\bin\x86\Release\Interop.Shell32.dll
+G:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.Form1.resources
+G:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.Properties.Resources.resources
+G:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.csprojResolveAssemblyReference.cache
+G:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.csproj.GenerateResource.Cache
+G:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.CompareFileFrm.resources
+G:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.ChangeImageSize.resources
+D:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\Interop.Shell32.dll
+D:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.csproj.ResolveComReference.cache
+D:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.ChangeImageSize.resources
+D:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.CompareFileFrm.resources
+D:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.Form1.resources
+D:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.Properties.Resources.resources
+D:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\bin\x86\Release\PickFilename.exe
+D:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\bin\x86\Release\PickFilename.pdb
+D:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\bin\x86\Release\FolderBrowserDialogEx.dll
+D:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\bin\x86\Release\FolderBrowserDialogEx.pdb
+D:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\bin\x86\Release\Interop.Shell32.dll
+D:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.exe
+D:\My Documents\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.pdb
+D:\MyDocuments\vsProjects\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.exe
+D:\MyDocuments\vsProjects\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.pdb
+D:\MyDocuments\vsProjects\Visual Studio 2005\Projects2005\PickFilename\PickFilename\bin\x86\Release\PickFilename.exe
+D:\MyDocuments\vsProjects\Visual Studio 2005\Projects2005\PickFilename\PickFilename\bin\x86\Release\FolderBrowserDialogEx.pdb
+D:\MyDocuments\vsProjects\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.csprojResolveAssemblyReference.cache
+D:\MyDocuments\vsProjects\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.ChangeImageSize.resources
+D:\MyDocuments\vsProjects\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.CompareFileFrm.resources
+D:\MyDocuments\vsProjects\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.Form1.resources
+D:\MyDocuments\vsProjects\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.Properties.Resources.resources
+D:\MyDocuments\vsProjects\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.csproj.GenerateResource.Cache
+D:\MyDocuments\vsProjects\Visual Studio 2005\Projects2005\PickFilename\PickFilename\bin\x86\Release\PickFilename.pdb
+D:\MyDocuments\vsProjects\Visual Studio 2005\Projects2005\PickFilename\PickFilename\bin\x86\Release\PickFilename.exe.manifest
+D:\MyDocuments\vsProjects\Visual Studio 2005\Projects2005\PickFilename\PickFilename\bin\x86\Release\PickFilename.application
+D:\MyDocuments\vsProjects\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.exe.manifest
+D:\MyDocuments\vsProjects\Visual Studio 2005\Projects2005\PickFilename\PickFilename\obj\x86\Release\PickFilename.application
+D:\MyDocuments\vsProjects\Visual Studio 2005\Projects2005\PickFilename\PickFilename\bin\x86\Release\PickFilename.exe.config
+D:\MyDocuments\vsProjects\Visual Studio 2005\Projects2005\PickFilename\PickFilename\bin\x86\Release\MediaInfoNET.dll
